@@ -22,7 +22,7 @@ and develop to their needs.
   * [bytesizd](https://github.com/AndrewR3K) **vorp dev team**
   * [blackpegasus](https://github.com/creativewild) **vorp dev team**
   * [T3chman](https://github.com/t3chman) **vorp dev team**
-  * [simpleman](https://github.com/SimpleSandman) **vorp dev team**
+  * [Yourgen](https://github.com/YourgenAP) **vorp dev team**
 
 ### LICENSE
 ___

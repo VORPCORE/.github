@@ -19,7 +19,6 @@ and develop to their needs.
   * [outsider](https://github.com/outsider31000?tab=repositories) **project manager**
   * [blue](https://github.com/kamelzarandah) **owner**
   * [local9](https://github.com/Local9) **core developer**
-  * [bytesizd](https://github.com/AndrewR3K) **vorp dev team**
   * [blackpegasus](https://github.com/creativewild) **vorp dev team**
   * [Yourgen](https://github.com/YourgenAP) **vorp dev team**
 

@@ -15,10 +15,9 @@ It offers both C# and Lua versions for anyone to create a server
 and develop to their needs.
 
 ### Official developers
-     
-  * [outsider](https://github.com/outsider31000?tab=repositories) **project manager**
   * [blue](https://github.com/kamelzarandah) **owner**
-  * [local9](https://github.com/Local9) **core developer**
+  * [outsider](https://github.com/outsider31000?tab=repositories) **project manager**
+  * [local9](https://github.com/Local9) **vorp dev team**
   * [blackpegasus](https://github.com/creativewild) **vorp dev team**
   * [Yourgen](https://github.com/YourgenAP) **vorp dev team**
 

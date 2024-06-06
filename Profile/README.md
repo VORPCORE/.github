@@ -19,7 +19,6 @@ and develop to their needs.
   * [outsider](https://github.com/outsider31000?tab=repositories) **project manager**
   * [local9](https://github.com/Local9) **vorp dev team**
   * [blackpegasus](https://github.com/creativewild) **vorp dev team**
-  * [Yourgen](https://github.com/YourgenAP) **vorp dev team**
 
 ### LICENSE
 ___

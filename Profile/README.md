@@ -11,17 +11,15 @@ https://user-images.githubusercontent.com/87246847/176925350-2d80ecfc-96b6-48f8-
 
 ### ABOUT
 VORP is the leading framework for creating serious RP servers for RedM.
-It offers both C# and Lua versions for anyone to create and develop a server to their needs.
+It offers tools for anyone to create and develop a server to their needs.
 
 ### Official developers
   * [blue](https://github.com/kamelzarandah) **owner**
   * [outsider](https://github.com/outsider31000?tab=repositories) **project manager**
-  * [local9](https://github.com/Local9) **vorp dev team**
   * [blackpegasus](https://github.com/creativewild) **vorp dev team**
 
 ### LICENSE
 ```
-###### ***vorp frame work***
 Copyright (C) 2024  outsider
 
 This program is free software; you can redistribute it and/or modify

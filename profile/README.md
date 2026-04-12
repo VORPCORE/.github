@@ -22,10 +22,10 @@ Join our **community of developers, server owners, and roleplay enthusiasts** to
 
 <p>
     <a href="https://docs.vorp-core.com">
-        <img src="https://img.shields.io/badge/Documentation-FACA80?style=flat-square&logo=gitbook&logoColor=2b1d0e" alt="Documentation">
+        <img src="https://img.shields.io/badge/Documentation-555555?logo=gitbook" alt="Documentation">
     </a>
     <a href="https://discord.gg/DHGVAbCj7N">
-        <img src="https://img.shields.io/badge/Discord-FACA80?style=flat-square&logo=discord&logoColor=2b1d0e" alt="Discord">
+        <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord">
     </a>
 </p>
 

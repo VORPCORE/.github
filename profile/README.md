@@ -20,8 +20,14 @@ Development of VORP is led by a dedicated team of volunteers who are passionate 
 
 Join our **community of developers, server owners, and roleplay enthusiasts** to share ideas, get support, and stay updated on the latest news and developments related to VORP.
 
-- **Official Discord**: [Click here](https://discord.gg/DHGVAbCj7N)
-- **Official Documentation**: [Click here](https://docs.vorp-core.com)
+<p>
+    <a href="https://docs.vorp-core.com">
+        <img src="https://img.shields.io/badge/Documentation-FACA80?style=flat-square&logo=gitbook&logoColor=2b1d0e" alt="Documentation">
+    </a>
+    <a href="https://discord.gg/DHGVAbCj7N">
+        <img src="https://img.shields.io/badge/Discord-FACA80?style=flat-square&logo=discord&logoColor=2b1d0e" alt="Discord">
+    </a>
+</p>
 
 ## License
 

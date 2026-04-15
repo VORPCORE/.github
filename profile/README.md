@@ -1,7 +1,4 @@
-
-<p>
-    <img src="../assets/vorp_github_panel.png" alt="VORP banner" width="500">
-</p>
+https://user-images.githubusercontent.com/87246847/176925350-2d80ecfc-96b6-48f8-b413-40b5564319dd.mp4
 
 This organization hosts the **core framework**, along with **official resources and tools** that power and extend the VORP ecosystem.
 It provides a **robust and scalable foundation** for developers looking to build, customize, and maintain a RedM roleplay server with a long-term vision and structured development workflow.
@@ -18,16 +15,9 @@ Development of VORP is led by a dedicated team of volunteers who are passionate 
 
 ## Community
 
-Join our **community of developers, server owners, and roleplay enthusiasts** to share ideas, get support, and stay updated on the latest news and developments related to VORP.
-
-<p>
-    <a href="https://docs.vorp-core.com">
-        <img src="https://img.shields.io/badge/Documentation-555555?logo=gitbook" alt="Documentation">
-    </a>
-    <a href="https://discord.gg/DHGVAbCj7N">
-        <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord">
-    </a>
-</p>
+Join our **community of developers, server owners, and roleplay enthusiasts** to exchange ideas, get support, and stay up to date with the latest VORP news and developments.
+Support is available in the official Discord server, but not guaranteed: [DISCORD](https://discord.gg/DHGVAbCj7N)
+The documentation is freely accessible and actively maintained for developers:  [DOCS](https://docs.vorp-core.com)
 
 ## License
 

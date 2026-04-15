@@ -16,7 +16,9 @@ Development of VORP is led by a dedicated team of volunteers who are passionate 
 ## Community
 
 Join our **community of developers, server owners, and roleplay enthusiasts** to exchange ideas, get support, and stay up to date with the latest VORP news and developments.
+
 Support is available in the official Discord server, but not guaranteed: [DISCORD](https://discord.gg/DHGVAbCj7N)
+
 The documentation is freely accessible and actively maintained for developers:  [DOCS](https://docs.vorp-core.com)
 
 ## License

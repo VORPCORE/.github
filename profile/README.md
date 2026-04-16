@@ -13,13 +13,13 @@ Development of VORP is led by a dedicated team of volunteers who are passionate 
 - [Outsider](https://github.com/outsider31000?tab=repositories) — Project Manager
 - [Blackpegasus](https://github.com/creativewild) — VORP Dev Team
 
-## Community
+## Community, Support & Documentation
 
 Join our **community of developers, server owners, and roleplay enthusiasts** to exchange ideas, get support, and stay up to date with the latest VORP news and developments.
 
-Support is available in the official Discord server, but not guaranteed: [DISCORD](https://discord.gg/DHGVAbCj7N)
+Support is available in the official Discord server, but is not guaranteed: [DISCORD](https://discord.gg/DHGVAbCj7N)
 
-The documentation is freely accessible and actively maintained for developers:  [DOCS](https://docs.vorp-core.com)
+The documentation is freely accessible and actively maintained for developers: [DOCS](https://docs.vorp-core.com)
 
 ## License
 

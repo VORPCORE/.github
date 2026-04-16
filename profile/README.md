@@ -10,7 +10,7 @@ Today, it is trusted and used by more than **1,000+ server owners worldwide**.
 
 Development of VORP is led by a dedicated team of volunteers who are passionate about creating a **high-quality framework** for the RedM community. The team is responsible for maintaining the **core framework**, developing **official resources**, and providing support to users.
 - [Blue](https://github.com/kamelzarandah) — Owner
-- [Outsider](https://github.com/outsider31000?tab=repositories) — Project Manager
+- [Outsider](https://github.com/outsider31000) — Project Manager
 - [Blackpegasus](https://github.com/creativewild) — Dev Team
 - [James the Coding Gamer](https://github.com/James-the-Coding-Gamer) — Dev Assist
 - [Z-eus](https://github.com/Z-eus) — Dev Assist
